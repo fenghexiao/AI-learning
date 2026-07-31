@@ -16,3 +16,5 @@ ArrayList Student Management
 Day4:
 Encapsulation
 Getter Setter
+
+Day10是我目前经历最难的时候，一种窒息感，突然涌入的大量新消息，再把以前的方法叠加起来，这种感觉真的给我一种改变感，我学会了更多！
